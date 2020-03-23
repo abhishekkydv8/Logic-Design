@@ -1,0 +1,119 @@
+# Compile of not_gate.v failed with 2 errors.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# Compile of demux1_2_gate.v failed with 1 errors.
+# 8 compiles, 1 failed with 1 error.
+# Compile of demux1_2_gate.v was successful.
+# Compile of mux8_1_gate.v was successful.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# Compile of demux1_2_gate.v was successful.
+# Compile of mux4_1_gate.v failed with 1 errors.
+# Compile of mux8_1_gate.v was successful.
+# Compile of demux1_8_gate.v was successful.
+# Compile of demux1_4_gate.v was successful.
+# 12 compiles, 1 failed with 1 error.
+# Compile of mux4_1_gate.v was successful.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# Compile of demux1_2_gate.v was successful.
+# Compile of mux4_1_gate.v was successful.
+# Compile of mux8_1_gate.v was successful.
+# Compile of demux1_8_gate.v was successful.
+# Compile of demux1_4_gate.v was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# Compile of demux1_2_gate.v was successful.
+# Compile of mux4_1_gate.v was successful.
+# Compile of mux8_1_gate.v was successful.
+# Compile of demux1_8_gate.v was successful.
+# Compile of demux1_4_gate.v was successful.
+# Compile of half_adder.v was successful.
+# Compile of full_adder.v failed with 1 errors.
+# 14 compiles, 1 failed with 1 error.
+# Compile of full_adder.v was successful.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# Compile of demux1_2_gate.v was successful.
+# Compile of mux4_1_gate.v was successful.
+# Compile of mux8_1_gate.v was successful.
+# Compile of demux1_8_gate.v was successful.
+# Compile of demux1_4_gate.v was successful.
+# Compile of half_adder.v was successful.
+# Compile of full_adder.v was successful.
+# Compile of half_sub.v was successful.
+# Compile of full_sub.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of not_gate.v was successful.
+# Compile of and_gate.v was successful.
+# Compile of  or_gate.v was successful.
+# Compile of nor_gate.v was successful.
+# Compile of xor_gate.v was successful.
+# Compile of xnor_gate.v was successful.
+# Compile of mux2_1_gate.v was successful.
+# Compile of demux1_2_gate.v was successful.
+# Compile of mux4_1_gate.v was successful.
+# Compile of mux8_1_gate.v was successful.
+# Compile of demux1_8_gate.v was successful.
+# Compile of demux1_4_gate.v was successful.
+# Compile of half_adder.v was successful.
+# Compile of full_adder.v was successful.
+# Compile of half_sub.v was successful.
+# Compile of full_sub.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Compile of demux1_2_gate.v was successful.
+# Compile of gated_srl.v was successful.
+# Compile of dff.v was successful.
+# Compile of dff.v was successful.
+# Compile of dff.v was successful.
+# Compile of dff.v was successful.
+# Compile of rising_dff.v failed with 1 errors.
+# Compile of rising_dff.v was successful.
+# Compile of gated_srl.v was successful.

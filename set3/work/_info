@@ -1,0 +1,430 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/system32
+vand_gate
+Z0 !s110 1547036102
+!i10b 1
+!s100 foBikaVQhXZ<W213:3mAQ3
+I06Wi]h1W_?]=e51N7;3Sm3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/ABHISHEK/Desktop/LD
+w1547009257
+8C:/Users/ABHISHEK/Desktop/LD/and_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/and_gate.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1547036102.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/and_gate.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdemux1_2_gate
+!s110 1547041181
+!i10b 1
+!s100 L>XE9:574eL[GnELh37U?3
+I3e`e9C9ZnhHn::W;z;_@O1
+R1
+R2
+w1547038944
+8C:/Users/ABHISHEK/Desktop/LD/demux1_2_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/demux1_2_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1547041179.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/demux1_2_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/demux1_2_gate.v|
+!i113 1
+R5
+R6
+vdemux4_1_gate
+Z7 !s110 1547036105
+!i10b 1
+!s100 EgVMVnDXCghW1>;J9ejze0
+Im>za]zjh:Oi4If>FBM3Pf1
+R1
+R2
+w1547033455
+8C:/Users/ABHISHEK/Desktop/LD/demux1_4_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/demux1_4_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1547036105.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/demux1_4_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/demux1_4_gate.v|
+!i113 1
+R5
+R6
+vdemux8_1_gate
+R7
+!i10b 1
+!s100 c5lE_HL3d[nmiP9>m6>3S1
+I_m4I`c>4WCkZbUm[<9Zz42
+R1
+R2
+w1547033619
+8C:/Users/ABHISHEK/Desktop/LD/demux1_8_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/demux1_8_gate.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ABHISHEK/Desktop/LD/demux1_8_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/demux1_8_gate.v|
+!i113 1
+R5
+R6
+vdff
+!s110 1547042605
+!i10b 1
+!s100 gWgPc]HMc]3fOJ0@6DW>g0
+IbE1Ja3HmoO>N8`U_MH0Iz2
+R1
+R2
+w1547042021
+8C:/Users/ABHISHEK/Desktop/LD/dff.v
+FC:/Users/ABHISHEK/Desktop/LD/dff.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1547042605.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/dff.v|
+!i113 1
+R5
+R6
+vfull_adder
+Z9 !s110 1547036106
+!i10b 1
+!s100 Bl;jCVX<eGj1nzVb4jU[m1
+IR;@o@MHWoZIc_l0K2m[f93
+R1
+R2
+w1547035417
+8C:/Users/ABHISHEK/Desktop/LD/full_adder.v
+FC:/Users/ABHISHEK/Desktop/LD/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1547036106.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/full_adder.v|
+!i113 1
+R5
+R6
+vfull_sub
+!s110 1547036107
+!i10b 1
+!s100 _Vc=04n]b9<g`JoLloYao1
+Iz[_;`5OZWU3:oka;8:V:22
+R1
+R2
+w1547036051
+8C:/Users/ABHISHEK/Desktop/LD/full_sub.v
+FC:/Users/ABHISHEK/Desktop/LD/full_sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1547036107.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/full_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/full_sub.v|
+!i113 1
+R5
+R6
+vgated_srl
+!s110 1547076733
+!i10b 1
+!s100 >PZM6AH[ML1Gl5[LWDfAf2
+IMzceA4lb1j;HR:XZ5O0N`0
+R1
+R2
+w1547076704
+8C:/Users/ABHISHEK/Desktop/LD/gated_srl.v
+FC:/Users/ABHISHEK/Desktop/LD/gated_srl.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1547076731.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/gated_srl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/gated_srl.v|
+!i113 1
+R5
+R6
+vhalf_adder
+R9
+!i10b 1
+!s100 fk=Jo4PcaK_FOiPXHjQQ12
+Ib5[SD:3J_SIf^b4PH[=Oh0
+R1
+R2
+w1547035063
+8C:/Users/ABHISHEK/Desktop/LD/half_adder.v
+FC:/Users/ABHISHEK/Desktop/LD/half_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ABHISHEK/Desktop/LD/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/half_adder.v|
+!i113 1
+R5
+R6
+vhalf_sub
+R9
+!i10b 1
+!s100 BN2]TOd1B<IhYKG>BX;[<0
+IW5O1Zij1MRX61mbKRQecg0
+R1
+R2
+w1547035960
+8C:/Users/ABHISHEK/Desktop/LD/half_sub.v
+FC:/Users/ABHISHEK/Desktop/LD/half_sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/ABHISHEK/Desktop/LD/half_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/half_sub.v|
+!i113 1
+R5
+R6
+vmux2
+!s110 1547015051
+!i10b 1
+!s100 b<F9J@Z:;QEUGAzG@_URG0
+I=@FDk[[4CZBC7`T:][JI_0
+R1
+R2
+w1547015033
+Z11 8C:/Users/ABHISHEK/Desktop/LD/mux2_1_gate.v
+Z12 FC:/Users/ABHISHEK/Desktop/LD/mux2_1_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1547015051.000000
+Z13 !s107 C:/Users/ABHISHEK/Desktop/LD/mux2_1_gate.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/mux2_1_gate.v|
+!i113 1
+R5
+R6
+vmux2_1_gate
+Z15 !s110 1547036104
+!i10b 1
+!s100 V[mLmeRaM1][Hd:C]13?V3
+IY4J30L`A@Zh9]n;D@_b[>3
+R1
+R2
+w1547015398
+R11
+R12
+L0 1
+R3
+r1
+!s85 0
+31
+Z16 !s108 1547036104.000000
+R13
+R14
+!i113 1
+R5
+R6
+vmux4_1_gate
+R15
+!i10b 1
+!s100 d0h9aZ7:`R7XAP7UeV^IZ3
+I4LzC>2GoAcW]Lb90AUUI_0
+R1
+R2
+w1547031745
+8C:/Users/ABHISHEK/Desktop/LD/mux4_1_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/mux4_1_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/ABHISHEK/Desktop/LD/mux4_1_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/mux4_1_gate.v|
+!i113 1
+R5
+R6
+vmux8_1_gate
+R7
+!i10b 1
+!s100 8S`h7AbJcP7ELLccK9kbn0
+Im0A1iM=W7Sj8fV5GRoiWo0
+R1
+R2
+w1547031699
+8C:/Users/ABHISHEK/Desktop/LD/mux8_1_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/mux8_1_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ABHISHEK/Desktop/LD/mux8_1_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/mux8_1_gate.v|
+!i113 1
+R5
+R6
+vnor_gate
+Z17 !s110 1547036103
+!i10b 1
+!s100 [=[JLeTWQH_YC9GPYTECL2
+IM@99kjbTDXLleC2caHi=k3
+R1
+R2
+w1547013089
+8C:/Users/ABHISHEK/Desktop/LD/nor_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/nor_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z18 !s108 1547036103.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/nor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/nor_gate.v|
+!i113 1
+R5
+R6
+vnot_gate
+R0
+!i10b 1
+!s100 diVN550Qcb03gCXITLKL]3
+IRC[DZVS@hj3NP@jzGiO4n0
+R1
+R2
+w1547009116
+8C:/Users/ABHISHEK/Desktop/LD/not_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/not_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ABHISHEK/Desktop/LD/not_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/not_gate.v|
+!i113 1
+R5
+R6
+vor_gate
+R0
+!i10b 1
+!s100 _a?G<Uk?okjTI=;B=BQPY0
+Ia<F5O94N6?AeNKnF0`W5[2
+R1
+R2
+w1547012971
+8C:/Users/ABHISHEK/Desktop/LD/ or_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/ or_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ABHISHEK/Desktop/LD/ or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/ or_gate.v|
+!i113 1
+R5
+R6
+vrising_dff
+!s110 1547042699
+!i10b 1
+!s100 dYNc@`RDi;3g^Fi:I@4R_2
+I?F`?U]kzII`2N^R@mZUKe2
+R1
+R2
+w1547042697
+8C:/Users/ABHISHEK/Desktop/LD/rising_dff.v
+FC:/Users/ABHISHEK/Desktop/LD/rising_dff.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1547042699.000000
+!s107 C:/Users/ABHISHEK/Desktop/LD/rising_dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/rising_dff.v|
+!i113 1
+R5
+R6
+vxnor_gate
+R17
+!i10b 1
+!s100 WIca4`5;lg27_^hc5d06c2
+IGRTHVl7<Izhf>`Aah^QPE1
+R1
+R2
+w1547013999
+8C:/Users/ABHISHEK/Desktop/LD/xnor_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/xnor_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/ABHISHEK/Desktop/LD/xnor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/xnor_gate.v|
+!i113 1
+R5
+R6
+vxor_gate
+R17
+!i10b 1
+!s100 44SeL4TZ?hZYBnMN6F^K01
+IC:BLY<`f3LdKIdM@IjicT1
+R1
+R2
+w1547014101
+8C:/Users/ABHISHEK/Desktop/LD/xor_gate.v
+FC:/Users/ABHISHEK/Desktop/LD/xor_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/ABHISHEK/Desktop/LD/xor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ABHISHEK/Desktop/LD/xor_gate.v|
+!i113 1
+R5
+R6

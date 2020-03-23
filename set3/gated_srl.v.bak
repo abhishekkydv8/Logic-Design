@@ -1,0 +1,11 @@
+module gated_srl(q,q0,s,r,e);
+input s,r,e;
+output q,q0;
+wire e0,x,y;
+nand(e0,e,e);
+nand(x,s,e);
+nand(y,r,e0);
+nand(q,q0,x);
+nand(q0,q,y);
+endmodule
+
